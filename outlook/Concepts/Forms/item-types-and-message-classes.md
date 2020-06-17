@@ -48,5 +48,6 @@ localization_priority: Normal
 |IPM.TaskRequest.Decline|Responses to desline task requests|
 |IPM.TaskRequest|Task requests|
 |IPM.TaskRequest.Update| Updates to requested tasks|
+|IPM.AppointmentSnapshot.SkypeTeams.Meeting | When users joined and left meeting 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
